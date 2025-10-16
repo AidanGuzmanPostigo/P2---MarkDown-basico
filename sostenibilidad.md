@@ -11,12 +11,12 @@ Indagando más en cada uno de los pilares de la sostenibilidad:
 
 | Nombre de ODS | Imagen de ODS | Relación con la informática |
 | ------------- | ------------- | --------------------------- |
-| Educación de calidad | <img width="150" height="150" alt="ODS 4 - Educación de calidad" src="https://github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/4.png"/> | Permitir a los ciudadanos el acceso económico a herramientas importantes tales como ordenadores, portátiles o similares para facilitar la enseñanza. |
-| Trabajo decente y crecimiento economico | <img width="150" height="150" alt="ODS 8 - Trabajo decente y crecimiento economico" src="https://github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/8.png"/> | Dentro del campo de la informática existen muchos puesto de trabajo que permiten el crecimiento económico. |
-| Industria, innovacion e infraestructura | <img width="150" height="150" alt="ODS 9 - Industria, innovacion e infraestructura" src="https://github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/9.png"/> | Creación de infraestucturas sostenibles y menos contanimantes con el uso de nuevas tecnologías. |
+| Educación de calidad | <img width="150" height="150" alt="ODS 4 - Educación de calidad" src="https://raw.github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/4.png"/> | Permitir a los ciudadanos el acceso económico a herramientas importantes tales como ordenadores, portátiles o similares para facilitar la enseñanza. |
+| Trabajo decente y crecimiento economico | <img width="150" height="150" alt="ODS 8 - Trabajo decente y crecimiento economico" src="https://raw.github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/8.png"/> | Dentro del campo de la informática existen muchos puesto de trabajo que permiten el crecimiento económico. |
+| Industria, innovacion e infraestructura | <img width="150" height="150" alt="ODS 9 - Industria, innovacion e infraestructura" src="https://raw.github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/9.png"/> | Creación de infraestucturas sostenibles y menos contanimantes con el uso de nuevas tecnologías. |
 
 ## Objetivos de desarrollo sostenible (ODS)
-<img width="500" height="500" alt="ODS" src="https://github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/ODS.png"/>
+<img width="500" height="500" alt="ODS" src="https://raw.github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/ODS.png"/>
 
 ## Accciones sostenibles en informática
 - Evitar la obsolescencia programada y realizar hardware que sea capaz de aguantar el mayor tiempo posible.
