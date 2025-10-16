@@ -10,12 +10,12 @@ Indagando más en cada uno de los pilares de la sostenibilidad:
 
 | Nombre de ODS | Imagen de ODS | Relación con la informática |
 | ------------- | ------------- | --------------------------- |
-| Educación de calidad |  ![ODS 4 - Educación de calidad](https://github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/4.png) | Permitir a los ciudadanos el acceso económico a herramientas importantes tales como ordenadores, portátiles o similares para facilitar la enseñanza. |
-| Trabajo decente y crecimiento economico | ![ODS 8 - Trabajo decente y crecimiento economico](https://github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/8.png) | Dentro del campo de la informática existen muchos puesto de trabajo que permiten el crecimiento económico. |
-| Industria, innovacion e infraestructura | ![ODS 9 - Industria, innovacion e infraestructura](https://github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/9.png) | Creación de infraestucturas sostenibles y menos contanimantes con el uso de nuevas tecnologías. |
+| Educación de calidad |  ![ODS 4 - Educación de calidad](../resources/4.png) | Permitir a los ciudadanos el acceso económico a herramientas importantes tales como ordenadores, portátiles o similares para facilitar la enseñanza. |
+| Trabajo decente y crecimiento economico | ![ODS 8 - Trabajo decente y crecimiento economico](../resources/8.png) | Dentro del campo de la informática existen muchos puesto de trabajo que permiten el crecimiento económico. |
+| Industria, innovacion e infraestructura | ![ODS 9 - Industria, innovacion e infraestructura](../resources/9.png) | Creación de infraestucturas sostenibles y menos contanimantes con el uso de nuevas tecnologías. |
 
 ## Objetivos de desarrollo sostenible (ODS)
-![ODS](https://github.com/AidanGuzmanPostigo/P2---MarkDown-basico/blob/main/resources/ODS.png)
+![ODS](../resources/ODS.png)
 
 ## Accciones sostenibles en informática
 - Evitar la obsolescencia programada y realizar hardware que sea capaz de aguantar el mayor tiempo posible.
