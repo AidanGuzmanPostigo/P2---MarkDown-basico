@@ -17,3 +17,9 @@ Indagando más en cada uno de los pilares de la sostenibilidad:
 
 ## Objetivos de desarrollo sostenible (ODS)
 <img width="500" height="500" alt="ODS" src="resources/ODS.png"/>
+
+## Accciones sostenibles en informática
+- Evitar la obsolescencia programada y realizar hardware que sea capaz de aguantar el mayor tiempo posible.
+- Optimizar el modo de ahorro de energía para que si algunos equipos se mantienen sin usarse se apaguen o entren en modo suspensión
+- Fomentar el teletrabajo para reducir las emisiones producidas por los transportes.
+- Reciclaje y reutilización de componentes electrónicos.
